@@ -1,22 +1,25 @@
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
-.app{ 
+body{
     font-family: 'montserrat' , sans-serif;
-    color:#ffff;
-    background-image: url('bg.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    color:rgb(87, 84, 216);
-    
 }
+.app{ 
+    
+    
+    background-image: url ('./images/cloud.jpg');
+    background-size: cover;
+    background-position: bottom;
+    transition: 0.4 ease-out;
+   }
 
-.header{
+.main{
+    background-image: url ('./images/cloud.jpg');
+    background-size: cover;
+    background-position: bottom;
+    transition: 0.4 ease-out;
+
+}   
+/*.header{
     padding: 50px 20px 30px 20px;
 }
 
@@ -49,4 +52,4 @@
     font-weight: 500 ;
     margin-bottom: 10px;
     text-shadow: 1px 3px rgba(0,0,0,0.9);   
-}
+} */
