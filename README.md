@@ -1,3 +1,16 @@
+<!-- 
+GH-PAGES PROGRESS
+1 ) yarn add --dev gh-pages"
+2) to script  "predeploy" : "yarn run build" ,
+              "deploy":"gh-pages -d build"
+3)"homepage": " https://mat-it.github.io/weatherapp/",
+4)on the terminal : yarn deploy
+5)on the git-up : change branch 
+
+ -->
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
