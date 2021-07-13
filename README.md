@@ -1,9 +1,9 @@
 <!-- 
 GH-PAGES PROGRESS
-1 ) yarn add --dev gh-pages"
-2) to script  "predeploy" : "yarn run build" ,
-              "deploy":"gh-pages -d build"
-3)"homepage": " https://mat-it.github.io/weatherapp/",
+1 ) (on the terminal) yarn add --dev gh-pages"
+2)(on the package.json) to script  "predeploy" : "yarn run build" ,
+                                    "deploy":"gh-pages -d build"
+3)(on the package.json) "homepage": " https://mat-it.github.io/weatherapp/",
 4)on the terminal : yarn deploy
 5)on the git-up : change branch 
 
